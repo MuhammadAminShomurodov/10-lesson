@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imegs": "https://euromebel.kz/upload/resize_cache/iblock/e0d/940_640_0ce6f211fbe1684de17c1bcd584296260/00029935_00_01.jpg",
+      "title": "Syltherine ",
+      "body": "Stylish cafe chair",
+      "price": "Rp 2.500.000"
+    },
+    {
+      "id": 2,
+      "imegs": "https://www.belfan.ru/uploads/blog-img/120768/lagos_kukhnya_U3_01.jpg",
+      "title": "Leviosa",
+      "body": "Stylish cafe chair",
+      "price": "Rp 2.500.000"
+    },
+    {
+      "id": 3,
+      "imegs": "https://sunsol.ru/wa-data/public/shop/products/88/88/8888/images/27685/27685.970.jpg",
+      "title": "Lolito",
+      "body": "Luxury big sofa",
+      "price": "Rp 7.000.000"
+    },
+    {
+      "id": 4,
+      "imegs": "https://smebel.uz/files/proekti/gostinie/045.jpg",
+      "title": "Respira",
+      "body": "Outdoor bar table and stool",
+      "price": "Rp 500.000"
+    },
+    {
+      "id": 5,
+      "imegs": "https://europa-mebel.ru/upload/resize_cache/iblock/d9f/350_270_2/68.jpg",
+      "title": "Grifo ",
+      "body": "Night lamp",
+      "price": "Rp 1.500.000"
+    },
+    {
+      "id": 6,
+      "imegs": "https://smebel.uz/files/proekti/krovati/101.jpg",
+      "title": "Muggo",
+      "body": "Small mug",
+      "price": "Rp 150.000"
+    },
+    {
+      "id": 7,
+      "imegs": "https://dsv-mebel.ru/wp-content/uploads/2022/10/img_8975.jpg",
+      "title": "Pingky",
+      "body": "Cute bed set",
+      "price": "Rp 7.000.000"
+    },
+    {
+      "id": 8,
+      "imegs": "https://dsv-mebel.ru/wp-content/uploads/2023/08/whatsapp-image-2023-01-16-at-19.46.00.jpeg",
+      "title": "Potty",
+      "body": "Minimalist flower pot",
+      "price": "Rp 500.000"
+    }
+  ]
+}
